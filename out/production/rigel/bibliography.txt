@@ -1,0 +1,29 @@
+IMAGE SOURCES AND CREDITS
+    sunris-earth : https://wallpapersprinted.com/wallpaper/2/earth_sunrise_from_space.html
+    Stars           : https://www.pixel4k.com/stars-galaxy-4k-57237.html
+    Moon           : https://wallpaperstock.net/grayscale-moon_wallpapers_10997_1920x1080_1.html
+    Sun             : https://svs.gsfc.nasa.gov/11503, NASA's Goddard Space Flight Center
+    Mercury       : https://www.nasa.gov/sites/default/files/images/729223main_728322main_messenger_orbit_image20130218_2_full_full_full.jpg,
+                                NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington
+    Venus          : https://www.nasa.gov/sites/default/files/thumbnails/image/pia00271.jpg, SSV, MIPL, Magellan Team, NASA
+    Mars            : https://www.1zoom.me/en/wallpaper/535830/z1115.1/1920x1080
+    Jupiter         : https://www.nasa.gov/feature/goddard/2019/hubble-new-portrait-of-jupiter,
+                                NASA, ESA, A. Simon (Goddard Space Flight Center) and M.H. Wong (University of California, Berkeley)
+    Saturn         : https://www.nasa.gov/sites/default/files/thumbnails/image/stsci-h-p1943a-f-2076x1484.png,
+                                NASA, ESA, A. Simon (GSFC), M.H. Wong (University of California, Berkeley) and the OPAL Team
+    Neptune       : https://www.numerama.com/content/uploads/2019/09/neptune-planete-systeme-solaire-espace.jpg
+    Uranus         : https://www.bingwallpaperhd.com/uranus.html
+
+
+INFORMATIONS ABOUT PLANETS
+    1. https://nineplanets.org/
+    2. https://www.universetoday.com/35565/gravity-on-other-planets/
+
+
+CSV CAPITALS
+    https://www.kaggle.com/nikitagrec/world-capitals-gps/data
+
+
+AUTHORS
+    Daniel Tavares
+    Jeremy Di Dio

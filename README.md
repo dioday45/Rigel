@@ -10,12 +10,12 @@ of start-up.
 
 Once the simulation window is launched, several modifications are possible.
 For example, you can change :
-    - The longitude and latitude.
-    - The date.
-    - The time.
-    - Time zone.
-    - The type of acceleration (time acceleration).
-    - Toggle to full screen mode or exit from full screen mode
+- The longitude and latitude.
+- The date.
+- The time.
+- Time zone.
+- The type of acceleration (time acceleration).
+- Toggle to full screen mode or exit from full screen mode
 
 You can then press the "play" button to launch the simulation and see the advanced sky map.
 with time or "pause" to stop it. The "reset" button resets the simulation.

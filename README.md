@@ -1,4 +1,4 @@
-# PROGRAMME'S OPERATION
+## Tutorial
 
 When the program is started, a menu appears allowing you to either start the simulation or
 access project details (Sources, credits and authors).
